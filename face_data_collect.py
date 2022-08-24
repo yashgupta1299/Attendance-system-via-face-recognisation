@@ -7,7 +7,6 @@
 # 3. Flatten the largest face image(gray scale) and save in a numpy array
 # 4. Repeat the above for multiple people to generate training data
 
-from tkinter.ttk import Treeview
 import cv2
 import numpy as np
 
